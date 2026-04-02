@@ -44,3 +44,9 @@ int main() {
     cout << ft.query(1, n) << endl;
     return 0;
 }
+
+
+
+////inversion count of aray 
+// sum(max)-sum(i)
+// i-> total greater element from ith element
