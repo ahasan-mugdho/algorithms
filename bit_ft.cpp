@@ -50,3 +50,5 @@ int main() {
 ////inversion count of aray 
 // sum(max)-sum(i)
 // i-> total greater element before ith element
+//yt: https://www.youtube.com/watch?v=DPiY9wFxGIw
+//CF:  https://codeforces.com/contest/1915/problem/F
