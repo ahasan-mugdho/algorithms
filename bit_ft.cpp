@@ -49,4 +49,4 @@ int main() {
 
 ////inversion count of aray 
 // sum(max)-sum(i)
-// i-> total greater element from ith element
+// i-> total greater element before ith element
